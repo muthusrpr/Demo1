@@ -7,3 +7,6 @@
 >> git commit -m "message" 		# to commit the changes in local repository
 >> git commit -a -m "message" 		# to commit all the files 
 >> git log 				# to check the log
+
+>> git branch <branch name> 		# to create new branch
+>> git checkout <branch name> 		# to switch to another branch
