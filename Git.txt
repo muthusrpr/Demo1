@@ -1,0 +1,8 @@
+>> git init    				# to intiate /configure the git local folder
+>> git remote add origin "link"    	# to create the origin link
+>> git pull origin master     		# to pull the files from github
+>> git status 				# Check the index (files) which are added for commit
+>> git add <file name>			# to add a file to index to commit
+>> git add -A				# to add all the files to index
+>> git commit -m "message" 		# to commit the changes in local repository
+>> git commit -a -m "message" 		# to commit all the files 
