@@ -5,8 +5,10 @@
 >> git add <file name>			# to add a file to index to commit
 >> git add -A				# to add all the files to index
 >> git commit -m "message" 		# to commit the changes in local repository
->> git commit -a -m "message" 		# to commit all the files 
+>> git commit -a -m "message" 		# to commit all the files / Commit the changes for the files that is already added in index
 >> git log 				# to check the log
 
 >> git branch <branch name> 		# to create new branch
 >> git checkout <branch name> 		# to switch to another branch
+>> git merge <branch name>		# merge the branch with master
+>> git rebase <master>			# rebase the master the the linear branch
