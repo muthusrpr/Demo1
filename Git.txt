@@ -6,3 +6,4 @@
 >> git add -A				# to add all the files to index
 >> git commit -m "message" 		# to commit the changes in local repository
 >> git commit -a -m "message" 		# to commit all the files 
+>> git log 				# to check the log
